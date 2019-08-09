@@ -1,0 +1,174 @@
+body{
+    width: 100vw;
+    height: 100vh;
+    margin: 0 auto;
+    background-color: white;
+    font-family: 'Fjalla One', sans-serif;
+}
+
+.header{
+    display: flex;
+    height: 20%;
+}
+
+.header-box{
+    display: flex;
+    width: 100%;
+    padding-top: 3%;
+    padding-left: 3%;
+}
+
+.header-box p{
+    font-size: 3vh;
+    font-weight: bold;
+}
+
+.other{
+    display: block;
+    height: 80%;
+}
+
+.title{
+    height: 25%;
+    padding-top: 3%;
+    padding-left: 3%;
+    display: flex;
+    font: bold;
+    font-size: 25px;
+}
+
+.kuang{
+    background-color: black;
+    animation: ling 0.5s infinite;
+    /* border-left: 20px solid;
+    border-bottom: 20px solid; */
+    height: 75%;
+    width:100%;
+    float: right;
+    box-sizing: border-box;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
+@keyframes ling {
+    0% {
+      background-color: white;
+    }
+    100% {
+      background-color: black;
+    }
+  }
+
+  .kuang1{
+    /* background-color: white; */
+    /* animation-delay: 0.5s; */
+    animation: yi 0.5s infinite;
+    width: 80%;
+    height: 80%;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+    @keyframes yi {
+        0% {
+            background-color: black;
+          }
+          100% {
+            background-color: white;
+          }
+  }
+
+.kuang2{
+    /* background-color: black; */
+    /* animation-delay: 1s; */
+    animation: ling 0.5s infinite;
+    width: 80%;
+    height: 80%;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.kuang3{
+    /* background-color: white; */
+    /* animation-delay: 1.5s; */
+    animation: yi 0.5s infinite;
+    width: 80%;
+    height: 80%;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.kuang4{
+    background-color: black;
+    animation: ling 0.5s infinite;
+    width: 80%;
+    height: 80%;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.kuang5{
+    /* background-color: white; */
+    animation: yi 0.5s infinite;
+    width: 80%;
+    height: 80%;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.kuang6{
+    /* background-color: black; */
+    animation: ling 0.5s infinite;
+    width: 80%;
+    height: 80%;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.kuang7{
+    /* background-color: white; */
+    animation: yi 0.5s infinite;
+    width: 80%;
+    height: 80%;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.kuang8{
+    /* background-color: black; */
+    animation: ling 0.5s infinite;
+    width: 80%;
+    height: 80%;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.kuang9{
+    /* background-color: white; */
+    animation: yi 0.5s infinite;
+    width: 60%;
+    height: 60%;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.kuang10{
+    /* background-color: black; */
+    animation: ling 0.5s infinite;
+    width: 60%;
+    height: 60%;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
