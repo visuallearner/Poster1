@@ -1,0 +1,35 @@
+
+{"CompanyDatabase" : [
+
+    {
+        "firstName" : "John",
+        "lastName" : "Sharp",
+        "Job" : "teacher",
+        "Company" : "Genspace"
+    },
+    
+    
+    {
+        "firstName" : "Cai",
+        "lastName" : "Wang",
+        "Job" : "Doctor",
+        "Company" : "AS"
+    },
+    
+    
+    {        
+        "firstName" : "Arron",
+        "lastName" : "Bill",
+        "Job" : "Gamer",
+        "Company" : "Greennnn"
+    },
+    
+    
+    
+    {}
+    
+    
+    
+    
+    ]
+}
